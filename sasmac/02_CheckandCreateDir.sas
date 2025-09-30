@@ -1,4 +1,4 @@
-/* Mirti Valerio 01/02/2023
+/* rumbero2020 01/02/2023
 
 
 cerca se esiste la directory nel path indicato
@@ -64,3 +64,4 @@ dir=/percorso/percorso/percorso
 %mend;
 
 /*%CheckandCreateDir(/sas/sasdata/Mensilizzazione_CE/Collaudo/Test_Val_Poll/Old2);*/
+
